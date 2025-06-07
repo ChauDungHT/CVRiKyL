@@ -1,0 +1,10 @@
+1. Viết chương trình đọc ảnh hiển thị kích thước của ảnh. Cắt 1 phần ảnh
+với tọa độ nhập vào. Phân ngưỡng ảnh vaeaf cắt bằng phân ngưỡng tối ưu. 
+Hiện ảnh trên matplotlib
+
+2. Tạo trackbar dịch ảnh sang trái, sang phải
+
+3. Đọc video, ấn phím g để chuyển sang video xám, ấn phím s để lưu ảnh, 
+ấn phím q để thoát
+
+4. 
